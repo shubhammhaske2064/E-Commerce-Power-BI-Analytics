@@ -259,7 +259,7 @@ The report is designed around a relational e-commerce model connecting areas suc
 
                  Calendar
                     │
-                    ▼
+                    ▼ 
 Customers ─────── Orders ─────── Order Items ─────── Products
                     │
                     ├────────── Payments
