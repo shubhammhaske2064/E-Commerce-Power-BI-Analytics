@@ -64,21 +64,21 @@ Regional performance
 Provides a high-level snapshot of the business.
 
 Key KPIs:
-Total Revenue: 16.01M
-Total Orders: 99K
-Total Customers: 96K
-Total Products Sold: 135K
-Average Order Value: 160.99
-Average Rating: 4.09
-Total Sellers: 3K
-Average Delivery Days: 12.50
+Total Revenue: 16.01M.
+Total Orders: 99K.
+Total Customers: 96K.
+Total Products Sold: 135K.
+Average Order Value: 160.99.
+Average Rating: 4.09.
+Total Sellers: 3K.
+Average Delivery Days: 12.50.
 
 Visuals:
-Monthly Revenue Trend
-Revenue by Customer State
+Monthly Revenue Trend.
+Revenue by Customer State..
 Revenue by Payment Type
-Top 10 Products
-Top 10 Sellers
+Top 10 Products.
+Top 10 Sellers.
 
 Business use: Quickly understand overall business health and identify major revenue contributors.
 
@@ -86,18 +86,18 @@ Business use: Quickly understand overall business health and identify major reve
 Focuses on revenue trends and category performance.
 
 Key KPIs:
-YTD Product Sales: 7.39M
-SPLY Sales: 7.31M
-YoY Growth %
-MTD Product Sales
-QTD Product Sales
-Average Quantity: 1.36
+YTD Product Sales: 7.39M.
+SPLY Sales: 7.31M.
+YoY Growth %.
+MTD Product Sales.
+QTD Product Sales.
+Average Quantity: 1.36.
 
 Visuals:
-Total Sales by Month
-Top 10 Product Categories
-Monthly Revenue Change
-Category Ranking
+Total Sales by Month.
+Top 10 Product Categories.
+Monthly Revenue Change.
+Category Ranking.
 
 Business use: Analyze sales trends, identify high-performing categories, and understand changes in monthly revenue.
 
@@ -105,18 +105,18 @@ Business use: Analyze sales trends, identify high-performing categories, and und
 Focuses on customer distribution, spending, ratings, and order behavior.
 
 Key KPIs:
-Total Customers: 96K
-Repeat Customers
-Repeat Customer Rate %
-Revenue per Customer: 166.59
-Orders per Customer: 1.03
+Total Customers: 96K.
+Repeat Customers.
+Repeat Customer Rate %.
+Revenue per Customer: 166.59.
+Orders per Customer: 1.03.
 
 Visuals:
-Customers by State
-Revenue by Customer State
-Reviews by Customer Rating
-Orders by Order Value Range
-Customers by Month-Year
+Customers by State.
+Revenue by Customer State.
+Reviews by Customer Rating.
+Orders by Order Value Range.
+Customers by Month-Year.
 
 Business use: Understand regional customer concentration, order value distribution, and customer satisfaction.
 
@@ -124,19 +124,19 @@ Business use: Understand regional customer concentration, order value distributi
 Evaluates product and category performance.
 
 Key KPIs:
-Total Products Sold: 125K
-Best Selling Product
-Lowest Selling Product
-Best Category: health_beauty
-Worst Category: security_and_services
-Average Product Rating: 4.22
+Total Products Sold: 125K.
+Best Selling Product.
+Lowest Selling Product.
+Best Category: health_beauty.
+Worst Category: security_and_services.
+Average Product Rating: 4.22.
 
 Visuals:
-Top 10 Products
-Bottom 10 Products
-Quantity Sold by Category
-Price vs. Rating
-Revenue by Category
+Top 10 Products.
+Bottom 10 Products.
+Quantity Sold by Category.
+Price vs. Rating.
+Revenue by Category.
 
 Business use: Identify high- and low-performing categories, understand product demand, and evaluate the relationship between price and rating.
 
@@ -144,20 +144,20 @@ Business use: Identify high- and low-performing categories, understand product d
 Measures operational and logistics performance.
 
 Key KPIs:
-Average Delivery Days: 12.50
-On-Time Orders: 92K
-Late Orders: 8K
-Late Delivery %: 0.08
-Total Freight: 2.25M
-Average Freight: 19.99
-On-Time Delivery %: 0.95
+Average Delivery Days: 12.50.
+On-Time Orders: 92K.
+Late Orders: 8K.
+Late Delivery %: 0.08.
+Total Freight: 2.25M.
+Average Freight: 19.99.
+On-Time Delivery %: 0.95.
 
 Visuals:
-On-Time Delivery %
-Average Delivery Days by State
-Average Delivery Days by Month-Year
-Delivery Status
-Delivery Days by Month & State
+On-Time Delivery %.
+Average Delivery Days by State.
+Average Delivery Days by Month-Year.
+Delivery Status.
+Delivery Days by Month & State.
 
 Business use: Identify regions and periods with slower delivery performance and monitor logistics efficiency.
 
@@ -165,24 +165,24 @@ Business use: Identify regions and periods with slower delivery performance and 
 Evaluates seller contribution and operational performance.
 
 Key KPIs:
-Total Sellers: 3K
-Seller Revenue: 13.59M
-Seller Orders: 99K
-Average Seller Revenue: 4.39K
-Average Rating: 4.09
-Total Freight: 2.25M
+Total Sellers: 3K.
+Seller Revenue: 13.59M.
+Seller Orders: 99K.
+Average Seller Revenue: 4.39K.
+Average Rating: 4.09.
+Total Freight: 2.25M.
 
 Visuals:
-Seller Rating Distribution
-Top 10 Sellers
-Orders vs. Revenue
-Sales by Seller State
-Monthly Seller Revenue
-Seller Performance Matrix
+Seller Rating Distribution.
+Top 10 Sellers.
+Orders vs. Revenue.
+Sales by Seller State.
+Monthly Seller Revenue.
+Seller Performance Matrix.
 
 Business use: Identify high-value sellers, compare seller revenue and order volume, and evaluate seller performance by region.
 
-📊 Key Business Findings
+📊 Key Business Findings :
 Based on the completed dashboard
 Revenue & Sales:
 The dashboard reports 16.01M total revenue across approximately 99K orders.
@@ -212,48 +212,48 @@ The Orders vs. Revenue scatter plot can be used to identify high-volume/high-rev
 
 🧮 Key Analytical Measures
 The report uses Power BI measures for business KPIs and time-based analysis, including:
-Total Revenue
-Total Orders
-Total Customers
-Total Products Sold
-Average Order Value
-Average Rating
-Average Delivery Days
-YTD Sales
-SPLY Sales
-YoY Growth %
-MTD Sales
-QTD Sales
-Average Quantity
-Repeat Customers
-Repeat Customer Rate
-Revenue per Customer
-Orders per Customer
-Total Freight
-Average Freight
-Late Orders
-On-Time Orders
-Late Delivery %
-Seller Revenue
-Seller Orders
-Average Seller Revenue
+Total Revenue,
+Total Orders,
+Total Customers,
+Total Products Sold,
+Average Order Value,
+Average Rating,
+Average Delivery Days,
+YTD Sales,
+SPLY Sales,
+YoY Growth %,
+MTD Sales,
+QTD Sales,
+Average Quantity,
+Repeat Customers,
+Repeat Customer Rate,
+Revenue per Customer,
+Orders per Customer,
+Total Freight,
+Average Freight,
+Late Orders,
+On-Time Orders,
+Late Delivery %,
+Seller Revenue,
+Seller Orders,
+Average Seller Revenue,
 
 🔄 Data Preparation & Transformation
 The project uses Power BI's data preparation capabilities to transform raw e-commerce data into an analysis-ready model.
 Typical transformation steps include:
-Data type correction
-Null and blank value handling
-Duplicate checking
-Date transformation
-Category translation
-Delivery-day calculation
-Delivery status classification
-Order value categorization
-Rating categorization
-Calendar table creation
-Relationship creation between transactional and dimension tables
+Data type correction,
+Null and blank value handling,
+Duplicate checking,
+Date transformation,
+Category translation,
+Delivery-day calculation,
+Delivery status classification,
+Order value categorization,
+Rating categorization,
+Calendar table creation,
+Relationship creation between transactional and dimension tables.
 
-🏗️ Data Modeling
+🏗️ Data Modeling :
 
 The report is designed around a relational e-commerce model connecting areas such as:
 
@@ -268,62 +268,62 @@ Customers ─────── Orders ─────── Order Items ──�
 
 Sellers ───────── Order Items
 
-🎛️ Interactive Features
+🎛️ Interactive Features:
 The dashboard includes interactive filters/slicers such as:
-Month
-Year
-Quarter
-Customer City
-Customer State
-Seller State
-Payment Type
-Delivery Status
+Month,
+Year,
+Quarter,
+Customer City,
+Customer State,
+Seller State,
+Payment Type,
+Delivery Status,
 Users can filter the report and analyze how the KPIs and visuals change according to the selected business segment.
 
 🛠️ Tools & Technologies :
-Power BI Desktop
-Dashboard development and visualization
-Power Query
-Data cleaning and transformation
-DAX
-KPI calculations and analytical measures
-Data Modeling
-Relationships and analytical structure
-Kaggle
-Source/distribution platform for the public Olist e-commerce dataset
+Power BI Desktop,
+Dashboard development and visualization,
+Power Query,
+Data cleaning and transformation,
+DAX,
+KPI calculations and analytical measures,
+Data Modeling,
+Relationships and analytical structure,
+Kaggle,
+Source/distribution platform for the public Olist e-commerce dataset.
 
 📈 Skills Demonstrated:
-Power BI
-Interactive dashboard development
-KPI cards
-Line charts
-Bar charts
-Donut charts
-Treemap
-Scatter plot
-Maps
-Matrix
-Waterfall chart
-Slicers
-Conditional analysis
-DAX
-Aggregation measures
-CALCULATE
-DIVIDE
-DISTINCTCOUNT
-Time intelligence
-YTD / SPLY / YoY analysis
-KPI calculations
-Business logic
-Data Analytics
-Sales analysis
-Customer analysis
-Product analysis
-Seller analysis
-Delivery performance
-Regional analysis
-Trend analysis
-Business storytelling
+Power BI,
+Interactive dashboard development,
+KPI cards,
+Line charts,
+Bar charts,
+Donut charts,
+Treemap,
+Scatter plot,
+Maps,
+Matrix,
+Waterfall chart,
+Slicers,
+Conditional analysis,
+DAX,
+Aggregation measures,
+CALCULATE,
+DIVIDE,
+DISTINCTCOUNT,
+Time intelligence,
+YTD / SPLY / YoY analysis,
+KPI calculations,
+Business logic,
+Data Analytics,
+Sales analysis,
+Customer analysis,
+Product analysis,
+Seller analysis,
+Delivery performance,
+Regional analysis,
+Trend analysis,
+Business storytelling,
 
 💡 Business Recommendations
 The dashboard can support decisions such as:
@@ -336,67 +336,14 @@ Monitor monthly sales fluctuations and investigate periods with sharp declines o
 
 📸 Dashboard Preview
 
-Executive Overview : 
+Executive Overview : https://github.com/shubhammhaske2064/E-Commerce-Power-BI-Analytics/blob/main/Executive%20Overview.png
 
+Sales Analysis : https://github.com/shubhammhaske2064/E-Commerce-Power-BI-Analytics/blob/main/Sales%20Analysis.png
 
+Customer Analysis : https://github.com/shubhammhaske2064/E-Commerce-Power-BI-Analytics/blob/main/Customer%20Analysis.png
 
+Product Analysis : https://github.com/shubhammhaske2064/E-Commerce-Power-BI-Analytics/blob/main/Product%20Analysis.png
 
+Delivery Analysis : https://github.com/shubhammhaske2064/E-Commerce-Power-BI-Analytics/blob/main/Delivery%20Analysis.png
 
-Sales Analysis
-
-
-
-Customer Analysis
-
-
-
-Product Analysis
-
-
-
-Delivery Analysis
-
-
-
-Seller Performance
-
-
-
-Add the six exported Power BI page screenshots to a screenshots folder using the filenames above.
-
-📁 Recommended Repository Structure
-
-E-Commerce-PowerBI-Analytics/
-│
-├── README.md
-│
-├── Power BI/
-│   └── E-Commerce Dashboard.pbix
-│
-├── Dataset/
-│   └── dataset_files.csv
-│
-├── Screenshots/
-│   ├── executive-overview.png
-│   ├── sales-analysis.png
-│   ├── customer-analysis.png
-│   ├── product-analysis.png
-│   ├── delivery-analysis.png
-│   └── seller-performance.png
-│
-└── Documentation/
-    └── Business-Insights.pdf
-
-🚀 How to Use
-
-Download or clone this repository.
-
-Open the .pbix file using Power BI Desktop.
-
-If Power BI requests the data source, update the dataset path.
-
-Refresh the model.
-
-Use the slicers to explore different business segments.
-
-Navigate through the six dashboard pages.
+Seller Performance : https://github.com/shubhammhaske2064/E-Commerce-Power-BI-Analytics/blob/main/Seller%20Performance.png
